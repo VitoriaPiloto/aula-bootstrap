@@ -1,0 +1,50 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(146, 189, 247);
+    font-size: xx-large;
+    font-family: 'UnifrakturCook', cursive;
+}
+
+.imagem{
+    margin-left: 20px;
+}
+
+.conteudo{
+    background-color: rgb(149, 236, 161);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+footer{
+    background-color: rgb(146, 189, 247);
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#texti{
+    padding-top: 50px;
+}
+
+.imagin{
+    border: 5px solid rgb(245, 219, 133);
+	transition: all 0.3s ease-out;
+	position: relative;
+	z-index: 2;
+}
+.imagin:hover{
+    transform: scale(1.2, 1.2);
+    z-index: 9;
+}
+
+p{
+    font-family: 'Merriweather', serif;
+}
+
+h3{
+    font-family: 'UnifrakturCook', cursive;
+}
