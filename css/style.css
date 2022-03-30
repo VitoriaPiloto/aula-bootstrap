@@ -28,6 +28,7 @@ footer{
 
 #texti{
     padding-top: 50px;
+    text-align: center;
 }
 
 .imagin{
@@ -43,6 +44,7 @@ footer{
 
 p{
     font-family: 'Merriweather', serif;
+    text-align: left;
 }
 
 h3{
